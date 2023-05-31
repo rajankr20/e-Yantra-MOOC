@@ -1,6 +1,6 @@
 /*! \mainpage Week-1 Experiment-2: Bar-graph LEDs and Interrupt Switch Interfacing
  *
- * @author     e-Yantra Team
+ * @author     e-Yantra Team AND RAJAN KUMAR
  * @date       2020/02/12
  *
  * \subsection Aim
