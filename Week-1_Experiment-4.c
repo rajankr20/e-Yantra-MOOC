@@ -1,6 +1,6 @@
 /*! \mainpage Week-1 Experiment-4: LCD Interfacing
  *
- * @author     e-Yantra Team and VAIBHAV PATIL
+ * @author     e-Yantra Team and RAJAN KUMAR
  * @date       2020/01/31
  *
  * \subsection Aim
