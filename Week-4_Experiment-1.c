@@ -1,6 +1,6 @@
 /*! \mainpage Week-4 Challenge Activity 1: Display custom characters on LCD
  *
- * @author     e-Yantra Team
+ * @author     e-Yantra Team AND RAJAN KUMAR
  * @date       2020/04/01
  *
  * \subsection Aim
