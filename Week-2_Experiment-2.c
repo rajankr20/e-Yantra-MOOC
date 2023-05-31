@@ -1,6 +1,6 @@
 /*! \mainpage Week-2 Experiment-2: ADC Interfacing with Interrupt
  *
- * @author     e-Yantra Team
+ * @author     e-Yantra Team AND RAJAN KUMAR
  * @date       2020/01/31
  *
  * \subsection Aim
