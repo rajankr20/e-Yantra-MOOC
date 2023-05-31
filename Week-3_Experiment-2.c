@@ -1,6 +1,6 @@
 /*! \mainpage Week-3 Experiment-2: Speed Control using 8 bit Phase Correct PWM Mode
  *
- * @author     e-Yantra Team
+ * @author     e-Yantra Team AND RAJAN KUMAR
  * @date       2020/02/27
  *
  * \subsection Aim
